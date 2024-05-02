@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Aumentar el tamaño de las letras en todos los elementos */
+body {
+    font-size: 40px; /* Tamaño base */
+  }
+
+  h3 {
+    font-size: 40px ; 
+  }
+  
+  /* Aumentar el tamaño de las letras en los elementos de entrada */
+  input[type="text"],
+  select {
+    font-size: 1.1em; /* 1.1 veces el tamaño base */
+  }
+
+  input::placeholder {
+    font-size: 40px; 
+  }
+  
+  .datos{
+    font-size: 25px;
+  }
+
+  .custom-select-lg{
+    font-size: 30px;
+  }
+
+ 
